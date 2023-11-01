@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "166893904072",
+    "project_id": "login-jetpack-compose-5e448",
+    "storage_bucket": "login-jetpack-compose-5e448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166893904072:android:448764d5da0fbab53f85fd",
+        "android_client_info": {
+          "package_name": "com.login.jetpackcompse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTU0vkNwnfJo7hSEyPA1y1zgfM97HyWHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166893904072:android:ae82a202ab51eb8d3f85fd",
+        "android_client_info": {
+          "package_name": "com.mvvm.bichomvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTU0vkNwnfJo7hSEyPA1y1zgfM97HyWHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
